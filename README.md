@@ -6,9 +6,6 @@ A modern and responsive single-page portfolio website for AppDost, a complete IT
 
 ---
 
-![AppDost Website Screenshot](https://i.imgur.com/image-of-your-site.png) 
-*(**Pro Tip:** Take a screenshot of your live website, upload it to a site like [Imgur](https://imgur.com/upload), and paste the link here)*
-
 ## ✨ Features
 
 - **Modern Dark-Themed UI:** A sleek, professional design with a consistent color palette.
