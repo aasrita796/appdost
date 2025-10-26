@@ -2,7 +2,7 @@
 
 A modern and responsive single-page portfolio website for AppDost, a complete IT solutions provider. This project was built from the ground up to showcase the company's services, portfolio, and professional process.
 
-**Live Demo:** [https://your-github-username.github.io/your-repo-name/](https://your-github-username.github.io/your-repo-name/)
+**Live Demo:** [https://your-github-username.github.io/your-repo-name/](https://aasrita796.github.io/appdost/)
 
 ---
 
